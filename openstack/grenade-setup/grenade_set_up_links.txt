@@ -1,0 +1,7 @@
+http://docs.openstack.org/developer/grenade/
+
+https://github.com/openstack-infra/devstack-gate/blob/master/multinode_setup_info.txt
+
+https://github.com/openstack-infra/devstack-gate
+
+https://github.com/openstack-infra/devstack-gate/blob/master/devstack-vm-gate.sh
