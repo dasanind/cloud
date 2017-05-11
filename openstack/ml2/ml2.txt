@@ -1,1 +1,4 @@
 https://assafmuller.com/category/ml2/
+https://blueprints.launchpad.net/neutron/+spec/reference-implementation-split
+https://blueprints.launchpad.net/neutron/+spec/ml2-binding-profile
+https://blueprints.launchpad.net/neutron/+spec/vif-details
